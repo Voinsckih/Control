@@ -1,0 +1,15 @@
+A:\Git\Control\Reshenie\bin\Debug\net7.0\Reshenie.exe
+A:\Git\Control\Reshenie\bin\Debug\net7.0\Reshenie.deps.json
+A:\Git\Control\Reshenie\bin\Debug\net7.0\Reshenie.runtimeconfig.json
+A:\Git\Control\Reshenie\bin\Debug\net7.0\Reshenie.dll
+A:\Git\Control\Reshenie\bin\Debug\net7.0\Reshenie.pdb
+A:\Git\Control\Reshenie\obj\Debug\net7.0\Reshenie.csproj.AssemblyReference.cache
+A:\Git\Control\Reshenie\obj\Debug\net7.0\Reshenie.GeneratedMSBuildEditorConfig.editorconfig
+A:\Git\Control\Reshenie\obj\Debug\net7.0\Reshenie.AssemblyInfoInputs.cache
+A:\Git\Control\Reshenie\obj\Debug\net7.0\Reshenie.AssemblyInfo.cs
+A:\Git\Control\Reshenie\obj\Debug\net7.0\Reshenie.csproj.CoreCompileInputs.cache
+A:\Git\Control\Reshenie\obj\Debug\net7.0\Reshenie.dll
+A:\Git\Control\Reshenie\obj\Debug\net7.0\refint\Reshenie.dll
+A:\Git\Control\Reshenie\obj\Debug\net7.0\Reshenie.pdb
+A:\Git\Control\Reshenie\obj\Debug\net7.0\Reshenie.genruntimeconfig.cache
+A:\Git\Control\Reshenie\obj\Debug\net7.0\ref\Reshenie.dll
